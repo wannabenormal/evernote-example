@@ -45,3 +45,6 @@ python list_notebooks.py
 python dump_inbox.py 10
 ```
 Выведет последние 10 заметок. 
+
+### config.py
+Содержит в себе настройки переменных окружения.
